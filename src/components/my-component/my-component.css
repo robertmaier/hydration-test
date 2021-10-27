@@ -1,0 +1,7 @@
+:host {
+  display: block;
+}
+
+.text {
+  background-color: var(--bg-color, green);
+}
